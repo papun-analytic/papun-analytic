@@ -10,7 +10,8 @@ papun-analytic/papun-analytic is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![image](https://user-images.githubusercontent.com/60501365/208501779-5594dba3-a737-4d42-a2b8-a67307395df9.png)    ![image](https://user-images.githubusercontent.com/60501365/208501854-56a830d5-d804-4c7c-be83-8bef9513cccb.png) ![image](https://user-images.githubusercontent.com/60501365/208502043-55d1c7fe-dc97-401e-9852-3be4dbde3f44.png)
+![image](https://user-images.githubusercontent.com/60501365/208501779-5594dba3-a737-4d42-a2b8-a67307395df9.png)    ![image](https://user-images.githubusercontent.com/60501365/208501854-56a830d5-d804-4c7c-be83-8bef9513cccb.png) ![image](https://user-images.githubusercontent.com/60501365/208502043-55d1c7fe-dc97-401e-9852-3be4dbde3f44.png) ![image](https://user-images.githubusercontent.com/60501365/208502316-914e31cd-8cba-44c1-b32f-7e59b2acce11.png)
+
 
 
 
